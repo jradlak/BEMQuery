@@ -1,5 +1,5 @@
 {
-  "name": "bemquery-package-boilerplate",
+  "name": "bemquery-hello-world",
   "version": "0.0.0",
   "description": "BEMQuery",
   "main": "dist/bemquery-package-boilerplate.umd.js",
